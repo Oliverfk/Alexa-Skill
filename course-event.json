@@ -1,0 +1,45 @@
+{
+  "session": {
+    "new": true,
+    "sessionId": "SessionId.5f904c14-2f39-4482-85f0-c3c7b6bb2d40",
+    "application": {
+      "applicationId": "amzn1.ask.skill.3ff5db33-4e40-4071-925c-b0d66b4a553e"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.AFIHRSMCGT7U6GWGBBCYD75LYJKO7NE3DQTJW2JFUP52OG5W3MTDXSNYOA6UYMDYMEGO6CURTLQTBSIX6T6ZHVLFGQKKOF3TXLHJRPYHH42KEBDPUNPNPFCVIKZ6E7SLFHB4YS2ENJHTJOEGDYZKXQLWUNEBMRXRVQY3BHSFOWZ2VWL45W7N5Y2EQ5LEZP3G4FWZT5AHQ7KRWNY"
+    }
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.03cd1780-37ec-4884-b8e9-ff7b8df26362",
+    "intent": {
+      "name": "GetCourseNum",
+      "slots": {
+        "CourseNum": {
+          "name": "CourseNum",
+          "value": "2110"
+        }
+      }
+    },
+    "locale": "en-US",
+    "timestamp": "2017-10-15T15:31:14Z"
+  },
+  "context": {
+    "AudioPlayer": {
+      "playerActivity": "IDLE"
+    },
+    "System": {
+      "application": {
+        "applicationId": "amzn1.ask.skill.3ff5db33-4e40-4071-925c-b0d66b4a553e"
+      },
+      "user": {
+        "userId": "amzn1.ask.account.AFIHRSMCGT7U6GWGBBCYD75LYJKO7NE3DQTJW2JFUP52OG5W3MTDXSNYOA6UYMDYMEGO6CURTLQTBSIX6T6ZHVLFGQKKOF3TXLHJRPYHH42KEBDPUNPNPFCVIKZ6E7SLFHB4YS2ENJHTJOEGDYZKXQLWUNEBMRXRVQY3BHSFOWZ2VWL45W7N5Y2EQ5LEZP3G4FWZT5AHQ7KRWNY"
+      },
+      "device": {
+        "supportedInterfaces": {}
+      }
+    }
+  },
+  "version": "1.0"
+}

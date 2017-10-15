@@ -1,0 +1,5 @@
+#!/home/ec2-user/dev/bin/python2.7
+import emulambda
+
+if __name__ == '__main__':
+    emulambda.main()

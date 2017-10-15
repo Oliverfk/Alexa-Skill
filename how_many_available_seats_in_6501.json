@@ -1,0 +1,45 @@
+{
+  "session": {
+    "new": true,
+    "sessionId": "SessionId.6bb090c1-bb1d-4c31-af7d-39e4a088bfe8",
+    "application": {
+      "applicationId": "amzn1.ask.skill.3ff5db33-4e40-4071-925c-b0d66b4a553e"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.AFIHRSMCGT7U6GWGBBCYD75LYJKO7NE3DQTJW2JFUP52OG5W3MTDXSNYOA6UYMDYMEGO6CURTLQTBSIX6T6ZHVLFGQKKOF3TXLHJRPYHH42KEBDPUNPNPFCVIKZ6E7SLFHB4YS2ENJHTJOEGDYZKXQLWUNEBMRXRVQY3BHSFOWZ2VWL45W7N5Y2EQ5LEZP3G4FWZT5AHQ7KRWNY"
+    }
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.f9681c8d-b9e6-44a3-922d-0bc506509120",
+    "intent": {
+      "name": "GetSeats",
+      "slots": {
+        "CourseNum": {
+          "name": "CourseNum",
+          "value": "6501"
+        }
+      }
+    },
+    "locale": "en-US",
+    "timestamp": "2017-10-15T16:54:57Z"
+  },
+  "context": {
+    "AudioPlayer": {
+      "playerActivity": "IDLE"
+    },
+    "System": {
+      "application": {
+        "applicationId": "amzn1.ask.skill.3ff5db33-4e40-4071-925c-b0d66b4a553e"
+      },
+      "user": {
+        "userId": "amzn1.ask.account.AFIHRSMCGT7U6GWGBBCYD75LYJKO7NE3DQTJW2JFUP52OG5W3MTDXSNYOA6UYMDYMEGO6CURTLQTBSIX6T6ZHVLFGQKKOF3TXLHJRPYHH42KEBDPUNPNPFCVIKZ6E7SLFHB4YS2ENJHTJOEGDYZKXQLWUNEBMRXRVQY3BHSFOWZ2VWL45W7N5Y2EQ5LEZP3G4FWZT5AHQ7KRWNY"
+      },
+      "device": {
+        "supportedInterfaces": {}
+      }
+    }
+  },
+  "version": "1.0"
+}
